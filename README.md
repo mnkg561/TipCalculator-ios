@@ -32,6 +32,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+https://github.com/mnkg561/TipCalculator-ios/blob/master/TipCalculator_Naveen.gif
 
 
 ## Notes
